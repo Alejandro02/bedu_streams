@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Juan",
+    "age": 20,
+    "phoneNumber": "3316952916",
+    "gender": "MALE",
+    "billingAddress": {
+      "country": "MX",
+      "state": "JAL",
+      "street": "Independencia"
+    }
+  },
+  {
+    "name": "Diana",
+    "age": 18,
+    "phoneNumber": "5534532442",
+    "gender": "FEMALE",
+    "billingAddress": {
+      "country": "MX",
+      "state": "MEX",
+      "street": "Homero"
+    }
+  },
+  {
+    "name": "Jose",
+    "age": 28,
+    "phoneNumber": "9494687942",
+    "gender": "MALE",
+    "billingAddress": {
+      "country": "US",
+      "state": "CA",
+      "street": "Market St"
+    }
+  },
+  {
+    "name": "Estefania",
+    "age": 21,
+    "phoneNumber": "123543653",
+    "gender": "FEMALE",
+    "billingAddress": {
+      "country": "ES",
+      "state": "MAD",
+      "street": "Ramirez de Prado"
+    }
+  },
+  {
+    "name": "Marco",
+    "age": 31,
+    "phoneNumber": "5445325222",
+    "gender": "MALE",
+    "billingAddress": {
+      "country": "ES",
+      "state": "MAD",
+      "street": "Ramirez de Prado"
+    }
+  },
+  {
+    "name": "Alejandro",
+    "age": 30,
+    "phoneNumber": "5545645643",
+    "gender": "MALE",
+    "billingAddress": {
+      "country": "MX",
+      "state": "MEX",
+      "street": "Sastreria"
+    }
+  }
+]
